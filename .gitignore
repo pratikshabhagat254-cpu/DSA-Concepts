@@ -1,0 +1,12 @@
+# Executables
+*.exe
+
+# Object Files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Build Directories
+build/
